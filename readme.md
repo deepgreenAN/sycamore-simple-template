@@ -1,4 +1,4 @@
-# yewのテンプレート(最適化済み)
+# sycamoreのテンプレート(最適化済み)
 ```
 trunk serve --release
 ```
